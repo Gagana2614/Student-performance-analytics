@@ -1,0 +1,6 @@
+{
+  "name": "EduMetrics",
+  "description": "Student Academic Performance Analytics System for managing students, subjects, marks, attendance, analytics, and academic reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
